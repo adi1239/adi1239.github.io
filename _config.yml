@@ -22,10 +22,10 @@ repository               : "adi1239/adi1239.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Bio"
+  name             : "Aditya Kamarusu"
   pronouns         : # example: "she/her"  He/Him
   bio              : "Tech Lead Software Engineer at Ciena"
-  location         : # location
+  location         : "Hyderabad, India"
   employer         : "Ciena"
   uri              : # URL
   email            : "adityasarma19@gmail.com" 
